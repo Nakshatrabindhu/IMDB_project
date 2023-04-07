@@ -1,1 +1,2 @@
-# IMDB_project
+# IMDB clone
+ 
